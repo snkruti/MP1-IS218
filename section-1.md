@@ -13,3 +13,5 @@ Additionally, the lightweight and secure nature of Docker reduces server costs a
 **Automated testing** is self-explanatory, it is software testing that is done automatically.
 This offers an advantage to companies as in the long-run it can save *time, manpower, and risk of human error* when testing new features for software.
 
+### Continuous Integration
+**Continuous integration** is a practice where programmers integrate their new code frequently into the main repository.
