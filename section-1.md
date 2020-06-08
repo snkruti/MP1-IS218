@@ -9,3 +9,5 @@ This improves productivity, and thereby improves competitiveness.
 Using Docker can increase a company’s effectiveness as standardization reduces compatibility issues.
 Additionally, the lightweight and secure nature of Docker reduces server costs and security worries.
 
+### Automated Testing
+**Automated testing** is self-explanatory, it is software testing that is done automatically.
