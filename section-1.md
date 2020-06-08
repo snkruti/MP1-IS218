@@ -7,3 +7,5 @@ This improves productivity, and thereby improves competitiveness.
 ### Docker
 **Docker** is a system that helps *standardize* programming practices, keeps file systems *lightweight,* and keeps file systems *secure.*
 Using Docker can increase a company’s effectiveness as standardization reduces compatibility issues.
+Additionally, the lightweight and secure nature of Docker reduces server costs and security worries.
+
