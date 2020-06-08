@@ -2,4 +2,4 @@
 
 [GitFlow Workflow Tutorial and Definitions](/section-2.md)
 
-##### Contributors: Maksim Nizhegorodtsev, Stephanie Asabere, Kruti Narasu
+##### Contributors: Maksim Nizhegorodtsev(maksimnizh2000), Stephanie Asabere(sa22222), Kruti Narasu(snkruti)
