@@ -15,3 +15,4 @@ This offers an advantage to companies as in the long-run it can save *time, manp
 
 ### Continuous Integration
 **Continuous integration** is a practice where programmers integrate their new code frequently into the main repository.
+This can help the productivity of companies as it means teams of programmers will be able to *catch and fix errors and conflicts* earlier, rather than later.
