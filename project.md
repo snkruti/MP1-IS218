@@ -22,8 +22,11 @@ The team members should recieve an e-mail with an invitation to be listed as a c
 
 ### Collaborating
 The Master branch should always be deployable. To keep the Master deployable you have to create new branches for new features and merge them into Master when they're completed. 
+
 Branches are defined as a duplicate of the original repository which someone can make changes to without affecting the original repository. 
+
 When working on the same project with other team members, it could cause some conflict. It could cause the codes to overlap and will also cause an error when its time to run it. 
+
 To avoid merge conflict, you will see that it will pop up as "Merge conflict" in whichever file you are trying to merge or edit. After that message pops up, you will see it will give you the option to "fix conflict" then commit the result. Afer all of that is done, you will no longer see an issue.
 
 Pull requests lets you tell the other members you are collabrating with that you have made changes to the repository. Once a pull request is sent, the members can review what changed were made and do whatever is necessary.
